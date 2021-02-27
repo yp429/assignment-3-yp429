@@ -1,6 +1,6 @@
 ---
 title: "Assignment3"
-author: "Yunxuan Pei"
+author: "Yunxuan Pei and Ryan Crawford (rvcrawford)"
 date: "2/26/2021"
 output: html_document
 ---
