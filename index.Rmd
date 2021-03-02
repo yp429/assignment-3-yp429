@@ -9,8 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Soil Judging
+![Soil Order](https://www.nrcs.usda.gov/Internet/FSE_MEDIA/nrcs142p2_050473.jpg)
+
+# Mushroom Hunting
+![Mushroom Identification](https://i.pinimg.com/originals/a0/7c/0c/a07c0c04f726d574557c80de0850772d.jpg)
+
 # Identity 5
-![Identity 5](https://lh3.googleusercontent.com/proxy/ffNbcdCsPKcOPt4DWr542unWIJrd9yoTnTpibD_i89iN4w3nsi8BTy8DYpqbsfZRafA4ej0mT5gMvXHKVmeBkPPWDZvAg5q3mCbu-l64hYKzp2PdsmMPrM0dHoojF0k2psl9JqwKdDuD_tyPuV3k3eqI)
+![Identity 5](https://i.pinimg.com/originals/89/3c/f1/893cf11bcc87fe6350b6b2ec8a02bac9.jpg)
 
 
 

@@ -10,8 +10,19 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 - Soil judger
+![Soil Judging in Maryland](~/assignment-3-yp429/IMG_0141.jpeg)
+> I am a Soil Judger and have two-years soil judging experience. By the way, I am a Cornell MPS student in Soil and Crop Sciences. 
+
+<br>
+
 - Mushroom hunter
+![Hunting Mushroom in Maryland](~/assignment-3-yp429/IMG_7314.jpeg)
+> Actually I forgot where I found this impressively huge mushroom. 
+
+<br>
+
 - Identity V player
+![Identity V Survivor Priestess](~/assignment-3-yp429/IMG_0455.jpeg)
 
-
+> Identity V is one of my favorite phone games.
 
