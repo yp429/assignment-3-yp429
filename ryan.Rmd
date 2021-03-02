@@ -1,0 +1,12 @@
+---
+title: "Ryan"
+author: "Ryan Crawford"
+date: "2/28/2021"
+output: html_document
+---
+
+* I am a technician who works at the amazingly-named Cornell University College of Agriculture and Life Sciences School of Integrative Plant Science Plant Breeding and Genetics Section--CUCALSSIPSPBG, for short.
+
+* I have two kids, 5 years and 15 months old.
+
+* I say that I like to read for pleasure but it takes me forever to finish anything. 
